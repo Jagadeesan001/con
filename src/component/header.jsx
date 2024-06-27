@@ -9,7 +9,7 @@ function Header(){
         settoggle(!toggle)
     }
     return(
-        <div className='bg-white p-6 sticky z-50 flex justify-between'>
+        <div className='bg-white p-6  flex justify-between'>
             <div>
                 <img src={logo} alt="" className='h-12'/>
             </div>
